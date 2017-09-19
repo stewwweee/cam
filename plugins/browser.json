@@ -1,0 +1,67 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-battery-status": {
+            "PACKAGE_NAME": "com.phonegap.cam"
+        },
+        "cordova-plugin-camera": {
+            "PACKAGE_NAME": "com.phonegap.cam"
+        },
+        "cordova-plugin-media-capture": {
+            "PACKAGE_NAME": "com.phonegap.cam"
+        },
+        "cordova-plugin-console": {
+            "PACKAGE_NAME": "com.phonegap.cam"
+        },
+        "cordova-plugin-contacts": {
+            "PACKAGE_NAME": "com.phonegap.cam"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "com.phonegap.cam"
+        },
+        "cordova-plugin-device-motion": {
+            "PACKAGE_NAME": "com.phonegap.cam"
+        },
+        "cordova-plugin-device-orientation": {
+            "PACKAGE_NAME": "com.phonegap.cam"
+        },
+        "cordova-plugin-dialogs": {
+            "PACKAGE_NAME": "com.phonegap.cam"
+        },
+        "cordova-plugin-file-transfer": {
+            "PACKAGE_NAME": "com.phonegap.cam"
+        },
+        "cordova-plugin-geolocation": {
+            "PACKAGE_NAME": "com.phonegap.cam"
+        },
+        "cordova-plugin-globalization": {
+            "PACKAGE_NAME": "com.phonegap.cam"
+        },
+        "cordova-plugin-inappbrowser": {
+            "PACKAGE_NAME": "com.phonegap.cam"
+        },
+        "cordova-plugin-media": {
+            "PACKAGE_NAME": "com.phonegap.cam"
+        },
+        "cordova-plugin-network-information": {
+            "PACKAGE_NAME": "com.phonegap.cam"
+        },
+        "cordova-plugin-splashscreen": {
+            "PACKAGE_NAME": "com.phonegap.cam"
+        }
+    },
+    "dependent_plugins": {
+        "cordova-plugin-compat": {
+            "PACKAGE_NAME": "com.phonegap.cam"
+        },
+        "cordova-plugin-file": {
+            "PACKAGE_NAME": "com.phonegap.cam"
+        }
+    }
+}
